@@ -1,0 +1,4 @@
+@Api_Endereco_HostAddress = http://localhost:5155
+
+GET {{Api_Endereco_HostAddress}}/weatherforecast/
+Accept: application/json
